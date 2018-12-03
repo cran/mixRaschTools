@@ -1,0 +1,9 @@
+1ada3d2a3a12372ec2dce374447b89cb *DESCRIPTION
+78bee54e6eae9ec0c5023c5bb877ee61 *NAMESPACE
+29553e697aa4e4f8e7d6dbc4f540f905 *R/mixRaschTools.R
+404de746c33979b7beb4bbef2b0402d6 *data/fourclass_ex.rda
+0a48ed81a99f774dd6f728b83691ce63 *data/threeclass_ex.rda
+39787c53d521687079ef32381dab6079 *man/Average-Ability-Levels-for-Multiple-Class-Mixed-Rasch-Model.Rd
+0bc00959c24426d2117e48ba33d6e397 *man/Item-parameter-plot-for-mixed-Rasch-model.Rd
+60b7f8a4c3df3a1388db3ababcd35249 *man/fourclass_ex.Rd
+719935bc6bed12339063744d8187cde8 *man/threeclass_ex.Rd
