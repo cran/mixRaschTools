@@ -1,7 +1,7 @@
 Package: mixRaschTools
 Title: Plotting and Average Theta Functions for Multiple Class Mixed
         Rasch Models
-Version: 1.1
+Version: 1.1.1
 Authors@R: c(person("Pamela", "Trantham", role = c("aut", "cre"), 
                   email = "pamelapsc@yahoo.com"))
 Author: Pamela Trantham [aut, cre]
@@ -18,7 +18,7 @@ Imports: graphics
 Suggests: knitr, rmarkdown, mixRasch, testthat
 RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2018-11-25 18:52:55 UTC; pamela
+Packaged: 2019-10-02 15:47:41 UTC; hornik
 Maintainer: Pamela Trantham <pamelapsc@yahoo.com>
 Repository: CRAN
-Date/Publication: 2018-12-03 10:10:03 UTC
+Date/Publication: 2019-10-02 15:53:59 UTC

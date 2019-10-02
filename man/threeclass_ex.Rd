@@ -27,4 +27,4 @@ Willse, J. T. (2014).  Package mixRasch.  R package version 1.1.
 Willse, J. T. (2011). Mixture Rasch models with joint maximum likelihood estimation.
      Educational and Psychological Measurement, 71, 5-19.https://doi.org/10.1177/0013164410387335
 }
-\keyword{{datasets}}
+\keyword{datasets}

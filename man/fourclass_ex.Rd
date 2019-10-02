@@ -25,4 +25,4 @@ Organisation for Economic Co-operation and Development., & Programme for Interna
       Student Assessment. (2012a).  Paris: OECD.
 Willse, J. T. (2014).  Package mixRasch.  R package version 1.1.
 }
-\keyword{{datasets}}
+\keyword{datasets}
